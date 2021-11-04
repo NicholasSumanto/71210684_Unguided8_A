@@ -1,0 +1,31 @@
+Untuk Hx :
+X.ADD_Down
+X.ADD_Right
+X.ADD_Right
+X.ADD_Right
+X.ADD_Up
+X.ADD_Right
+X.DIE
+X.DIE
+X.DIE
+X.DIE
+X.DIE
+X.DIE
+
+Untuk Hy :
+Y.ADD_Up
+Y.ADD_Left
+Y.ADD_Left
+Y.ADD_Up
+Y.ADD_Up
+Y.ADD_Left
+Y.ADD_Left
+Y.ADD_Down
+Y.DIE
+Y.DIE
+Y.DIE
+Y.DIE
+Y.DIE
+Y.DIE
+Y.DIE
+Y.DIE
