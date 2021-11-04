@@ -1,0 +1,2 @@
+yang terisi terlebih dahulu adalah cangkir nomor 9
+karena jalur untuk ke cangkir nomor 4 dan 7 tertutup,cangkir nomor 5 membutuhkan 2 kotak untuk dapat mulai terisi sedangkan cangkir nomor 9 hanya 1 setengah kotak untuk mulai terisi.
