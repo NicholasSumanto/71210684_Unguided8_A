@@ -1,0 +1,14 @@
+Mengjumlah deret bilangan
+Sn = (n/2)(a + Un)
+deret bilangan :
+2001+2002+2003+.........+3998+3999+4000 
+
+inisialisasikan variabel a dengan bilangan awal deret bilangan
+inisialisasikan variabel n dengan banyakna suku dalam deret bilangan
+inisialisasikan variabel Un dengan bilangan di suku tereakhir
+Sn = (n/2)(a + Un)
+if a = 2001,n = 2000, dan Un = 4000 then,	
+	Sn = (n/2)(a + Un)
+	Sn = (2000/2)(2001 + 4000)
+	Sn = (1000)(6001)
+	Sn = 6001000
